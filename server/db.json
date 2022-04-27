@@ -40,6 +40,38 @@
       "urlToImage": "https://akcdn.detik.net.id/visual/2020/04/22/67dc6f25-3655-4c58-be23-394162cca652_169.jpeg?w=650",
       "publishedAt": "2022-04-27T02:20:17Z",
       "content": "Jakarta, CNN Indonesia -- Polisi menerapkan kebijakan buka tutup di tol layang Jakarta-Cikampek atau Sheikh Mohammed bin Zayed, atau tol layang MBZ pada Rabu (27/4) pagi.\r\nTol layang MBZ ditutup seme… [+1376 chars]"
+    },
+    {
+      "id": 5,
+      "author": "Dwi Setiawan",
+      "title": "Prediksi Skor Liverpool vs Villarreal di Liga Champions, Rapor Merah Pasukan Emery - Tribunnews.com",
+      "description": "Villarreal akan berhadapan dengan Liverpool pada leg pertama semifinal Liga Champions, Kamis (28/4/2022) dinihari tadi.",
+      "url": "https://www.tribunnews.com/superskor/2022/04/27/prediksi-skor-liverpool-vs-villarreal-di-liga-champions-rapor-merah-pasukan-emery",
+      "urlToImage": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/unai-emery-kanan-meneriakkan-instruksi-kepada-para-pemainnya-selama.jpg",
+      "publishedAt": "2022-04-27T02:08:34Z",
+      "content": "TRIBUNNEWS.COM - Villarreal akan berhadapan dengan Liverpool pada leg pertama semifinal Liga Champions, Kamis (28/4/2022) dinihari tadi.\r\nStadion Anfield akan tempat angker yang harus ditaklukkan Vil… [+1781 chars]"
+    },
+    {
+      "id": 6,
+      "author": "CNN Indonesia",
+      "title": "Kejutan, Chico Kalahkan Kento Momota di BAC 2022 - CNN Indonesia",
+      "description": "Chico Aura Dwi Wardoyo membuat kejutan dengan menumbangkan Kento Momota pada babak pertama Badminton Asia Championship (BAC) 2022.",
+      "url": "https://www.cnnindonesia.com/olahraga/20220427090053-170-790214/kejutan-chico-kalahkan-kento-momota-di-bac-2022",
+      "urlToImage": "https://akcdn.detik.net.id/visual/2022/02/16/chico-aura-dwi-wardoyo-1_169.jpeg?w=650",
+      "publishedAt": "2022-04-27T02:05:13Z",
+      "content": "Jakarta, CNN Indonesia -- Chico Aura Dwi Wardoyo membuat kejutan dengan menumbangkan Kento Momota pada babak pertama Badminton Asia Championship (BAC) 2022 di Muntinlupa Sports Complex, Rabu (27/4) p… [+1575 chars]"
+    },
+    {
+      "title": "ddddddddddddddddddd",
+      "urlToImage": "",
+      "description": "",
+      "id": 7
+    }
+  ],
+  "login": [
+    {
+      "email": "test@test.com",
+      "password": "12345"
     }
   ]
 }
