@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import HomePage from '../views/HomePage'
 import CardDetailPage from '../components/CardDetailPage'
+import AddNews from '../components/AddNewsPage.vue'
 
 
 Vue.use(VueRouter)
@@ -16,7 +17,13 @@ const routes = [
     path: '/detail/:id',
     name: 'detail',
     component: CardDetailPage
-  }
+  },
+  {
+    path: '/addnews',
+    name: 'addnews',
+    component: AddNews
+  },
+
  
 ]
 

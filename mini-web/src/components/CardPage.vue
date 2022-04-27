@@ -66,7 +66,7 @@ export default {
       await this.$store.dispatch("deleteNews", id)
       this.created()
     },
-    created() {
+    created(){
     this.$store.dispatch("getNewsData");
   },
   },

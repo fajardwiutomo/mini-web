@@ -18,6 +18,9 @@ export default new Vuex.Store({
     },
     GET_NEWS_BY_ID(state, payload){
       state.detailNews = payload
+    },
+    ADD_NEWS(state,payload){
+      state.detailNews = payload
     }
   },
   actions: {
@@ -42,6 +45,13 @@ export default new Vuex.Store({
     async deleteNews (context, payload) {
       try {
         await axios.delete(`http://localhost:3000/news/${payload}`)
+      } catch (error) {
+        console.log(error)
+      }
+    },
+    async addNews(context,payload){
+      try {
+        await axios.post("http://localhost:3000/news",payload)
       } catch (error) {
         console.log(error)
       }
