@@ -1,0 +1,45 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "source": "Darilaut.id",
+      "author": "redaksi",
+      "title": "Metode Baru Mengukur Pertumbuhan Koloni Karang - darilaut.id",
+      "description": "Darilaut – Sejumlah ilmuwan memantau pertumbuhan dan perubahan terumbu karang dengan menggunakan fotogrametri Structure-from-Motion (SfM). Metode baru ini mampu merekonstruksi",
+      "url": "https://darilaut.id/berita/metode-baru-mengukur-pertumbuhan-koloni-karang",
+      "urlToImage": "https://darilaut.id/wp-content/uploads/2022/04/karang-2.jpg",
+      "publishedAt": "2022-04-27T03:58:31Z",
+      "content": "Darilaut Sejumlah ilmuwan memantau pertumbuhan dan perubahan terumbu karang dengan menggunakan fotogrametri Structure-from-Motion (SfM). Metode baru ini mampu merekonstruksi dasar laut dan komunitas … [+4226 chars]"
+    },
+    {
+      "id": 2,
+      "author": "Ida Farida",
+      "title": "Vivo T1 5G dan Vivo T1 Pro 5G Resmi Meluncur di Indonesia - Harian Haluan - Harian Haluan Network",
+      "description": "Dibanderol mulai seharga 2 jutaan, Vivo T1 5G dan Vivo T1 Pro 5G resmi diluncurkan dan dijual di pasaran Indonesia dengan spesifikasi 5G.",
+      "url": "https://www.harianhaluan.com/teknologi/pr-103285574/vivo-t1-5g-dan-vivo-t1-pro-5g-resmi-meluncur-di-indonesia",
+      "urlToImage": "https://assets.promediateknologi.com/crop/0x0:0x0/750x500/photo/2022/04/27/801162642.jpeg",
+      "publishedAt": "2022-04-27T03:06:57Z",
+      "content": "HARIANHALUAN.COM - Mengingat Vivo Indonesia hanya meluncurkan smartphone dengan seri V, Y, dan X, kehadiran Vivo T1 Series 5G menjadi angin segar bagi produsen asal Cina tersebut. \r\nDalam launching p… [+1512 chars]"
+    },
+    {
+      "id": 3,
+      "author": "Irawan Sapto Adhi",
+      "title": "Rusia Setop Pasok Gas ke Polandia dan Bulgaria Mulai Hari Ini - Kompas.com - KOMPAS.com",
+      "description": "Menganggap sebagai negara 'tidak bersahabat' dalam kasus perang di Ukraina, Rusia menghentikan pasokan gas ke Polandia dan Bulgaria.",
+      "url": "https://www.kompas.com/global/read/2022/04/27/094400770/rusia-setop-pasok-gas-ke-polandia-dan-bulgaria-mulai-hari-ini",
+      "urlToImage": "https://asset.kompas.com/crops/Npb6DByTehS3qLz_Ctrd4hg_yLQ=/125x0:800x450/780x390/filters:watermark(data/photo/2020/03/10/5e6775dc18fcf.png,0,-0,1)/data/photo/2022/04/09/62513c6b0a1fc.jpg",
+      "publishedAt": "2022-04-27T02:44:00Z",
+      "content": null
+    },
+    {
+      "id": 4,
+      "author": "CNN Indonesia",
+      "title": "Jalan Layang MBZ Ditutup Sementara Imbas Kepadatan KM 47 Tol Japek - CNN Indonesia",
+      "description": "Kebijakan buka-tutup jalan layang MBZ diterapkan imbas kepadatan arus lalu lintas di KM 47 tol Jakarta-Cikampek.",
+      "url": "https://www.cnnindonesia.com/nasional/20220427091038-20-790218/jalan-layang-mbz-ditutup-sementara-imbas-kepadatan-km-47-tol-japek",
+      "urlToImage": "https://akcdn.detik.net.id/visual/2020/04/22/67dc6f25-3655-4c58-be23-394162cca652_169.jpeg?w=650",
+      "publishedAt": "2022-04-27T02:20:17Z",
+      "content": "Jakarta, CNN Indonesia -- Polisi menerapkan kebijakan buka tutup di tol layang Jakarta-Cikampek atau Sheikh Mohammed bin Zayed, atau tol layang MBZ pada Rabu (27/4) pagi.\r\nTol layang MBZ ditutup seme… [+1376 chars]"
+    }
+  ]
+}
